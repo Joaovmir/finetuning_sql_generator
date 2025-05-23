@@ -27,7 +27,7 @@ O **Fine-Tuning SQL Generator** visa treinar um modelo LLM capaz de interpretar 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/finetuning_sql_generator.git
+git clone https://github.com/Joaovmir/finetuning_sql_generator.git
 cd finetuning_sql_generator
 ```
 
